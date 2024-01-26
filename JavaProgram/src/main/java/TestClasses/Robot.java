@@ -42,4 +42,12 @@ public class Robot implements Greetable, Movable{
     public void toGo() {
         position = Position.GOING;
     }
+
+    @Override
+    public String toString() {
+        return "Robot{" +
+                "position=" + position +
+                ", name='" + name + '\'' +
+                '}';
+    }
 }

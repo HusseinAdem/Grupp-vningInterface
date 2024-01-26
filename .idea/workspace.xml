@@ -8,7 +8,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaProgram/src/main/java/TestClasses/Robot.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaProgram/src/main/java/TestClasses/Robot.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaProgram/src/main/java/com/example/javaprogram/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaProgram/src/main/java/com/example/javaprogram/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaProgram/target/classes/TestClasses/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaProgram/target/classes/TestClasses/Animal.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaProgram/target/classes/TestClasses/Robot.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaProgram/target/classes/TestClasses/Robot.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaProgram/target/classes/com/example/javaprogram/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaProgram/target/classes/com/example/javaprogram/Main.class" afterDir="false" />
     </list>
@@ -92,7 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1706263281430</updated>
       <workItem from="1706263285262" duration="1041000" />
-      <workItem from="1706264339815" duration="2122000" />
+      <workItem from="1706264339815" duration="6927000" />
     </task>
     <task id="LOCAL−00001" summary="ny robot klass">
       <option name="closed" value="true" />
@@ -101,7 +100,14 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1706265545153</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="ny robot klass">
+      <option name="closed" value="true" />
+      <created>1706266627019</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1706266627019</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -1,9 +1,6 @@
 package com.example.javaprogram;
 
-import TestClasses.Person;
-import TestClasses.Emotions;
-import TestClasses.Position;
-import TestClasses.Robot;
+import TestClasses.*;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
@@ -17,13 +14,38 @@ public class Main implements CommandLineRunner {
 
         System.out.println(p1);
 
-        Robot robot = new Robot("Robotek");
+        //alternativ 1 robot säger hej och sitter
+        Robot robot1 = new Robot("Robotek1");
 
-        sitDown(robot);
+        sayHello(robot1);
+        sitDown(robot1);
+        sayGoodbye(robot1);
+
+
+
+        //alternativ 2 robot säger hej och sitter
+        Greetable robot22 = new Robot("Robotek2");
+        sayHello(robot22);
+
+
+        Movable robot2 = new Robot("Robotek2");
+        sitDown(robot2);
+
+        sayGoodbye(robot22);
+
+
+
 
     }
-    public static void sitDown(Robot r){
+    public static void sitDown(Movable r){
         r.toSitDown();
+    }
+    public static void sayHello(Greetable g){
+        g.sayhello();
+    }
+    public static void sayGoodbye(Greetable g){
+        g.sayGoodbye();
+
     }
 
 }

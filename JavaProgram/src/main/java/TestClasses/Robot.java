@@ -6,6 +6,15 @@ public class Robot implements Greetable, Movable{
 
     public Robot(String name) {
         this.name = name;
+        position = getPosition();
+    }
+
+    public Position getPosition() {
+        return position;
+    }
+
+    public void setPosition(Position position) {
+        this.position = position;
     }
 
     @Override
@@ -15,7 +24,7 @@ public class Robot implements Greetable, Movable{
 
     @Override
     public void sayGoodbye() {
-        System.out.println("Goodbye from Robotek");
+        System.out.println("Goodbye from " + name + "\n");
     }
 
     @Override
@@ -26,6 +35,7 @@ public class Robot implements Greetable, Movable{
     @Override
     public void toSitDown() {
         position = Position.SITTING;
+        System.out.println(name + " is " + position + " down!");
     }
 
     @Override

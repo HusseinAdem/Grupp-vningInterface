@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="335e70dc-0b4f-4dec-a7ed-88bbf5a13696" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/JavaProgram/src/main/java/TestClasses/Robot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="335e70dc-0b4f-4dec-a7ed-88bbf5a13696" name="Changes" comment="ny robot klass">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProgram/src/main/java/TestClasses/Robot.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaProgram/src/main/java/TestClasses/Robot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProgram/src/main/java/com/example/javaprogram/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaProgram/src/main/java/com/example/javaprogram/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProgram/target/classes/TestClasses/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaProgram/target/classes/TestClasses/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProgram/target/classes/TestClasses/Robot.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaProgram/target/classes/TestClasses/Robot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProgram/target/classes/com/example/javaprogram/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaProgram/target/classes/com/example/javaprogram/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,24 +39,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Hussein2/Documents/GitHub/experiments&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.5586207&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Hussein2/Documents/GitHub/experiments",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.5586207",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Grupp-vningInterface" />
@@ -84,11 +92,23 @@
       <option name="presentableId" value="Default" />
       <updated>1706263281430</updated>
       <workItem from="1706263285262" duration="1041000" />
-      <workItem from="1706264339815" duration="812000" />
+      <workItem from="1706264339815" duration="2122000" />
     </task>
+    <task id="LOCAL−00001" summary="ny robot klass">
+      <option name="closed" value="true" />
+      <created>1706265545153</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1706265545153</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ny robot klass" />
+    <option name="LAST_COMMIT_MESSAGE" value="ny robot klass" />
   </component>
 </project>
